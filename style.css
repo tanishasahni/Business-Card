@@ -1,0 +1,38 @@
+p {
+    font-style: italic;
+    color: #932F6D;
+    font-weight: bold;
+  }
+  
+  a {
+    text-decoration: none;
+    color: inherit;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+    color: #420039;
+  }
+  
+  h1 {
+    font-family: Playfair Display;
+    color: #932F6D;
+  }
+  
+  
+  a {
+    font-family: Georgia;
+    color: #932F6D;
+  }
+  
+  div {
+    background-color: #F6F2FF; 
+    width: fit-content;
+    margin: 4rem auto;
+    padding: 1rem 2rem 1rem 2rem;
+    border-radius: 0.5rem;
+    box-shadow: 10px 10px #420039;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #420039;
+  }
